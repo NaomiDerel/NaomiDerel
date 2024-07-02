@@ -69,6 +69,10 @@ Interrupted Time Series models with multiple interruption events, analyzing the 
       <code><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/></code> 
   </a> 
 
+  <a href="https://www.latex-project.org" target="_blank"> 
+      <code style="background-color: white;"><img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="latex" width="45" height="45"/></code> 
+  </a> 
+
   <a href="https://pytorch.org/" target="_blank"> 
       <code><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="45" height="45"/></code> 
   </a> 
