@@ -1,34 +1,26 @@
-<!--
-**NaomiDerel/NaomiDerel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
--->
 
 ## About Me
-I'm a passionate Data Science bachelor's student at the Technion - Israel Institute of Technology. My interests include machine learning, statistics, planning algorithms, and information retrieval.
+I'm a Data Science student currently persuing a Mcs. Degree at the Technion - Israel Institute of Technology. My main interest is in machine learning and statistic models.
 
 ## 🔭 I’m currently researching:
-Interrupted Time Series models with multiple interruption events, analyzing the model, and calculating the effect size of the interruptions.
+Modeling time series regression with multiple (known) disruption events, using statistical tools such as mixed models. Analysing model properties and the effect size of the disruptions on the time series. Applying my model on topical issues in public health questions requiring a quasi-experimental setup, aiming to provide insights into trends and effects of disruptions.
 
 ## 🌱 I’m currently learning:
+- Causal Inference, Econometrics and Statistics
+- Generative AI and Diffusion Models
+
+## 🎓 My previous elective studies:
+- Image Processign and Computer Vision, from classical algorithms to large models
+- Classic NLP and Language Cognition in AI and humans
+- Information Retrieval and RAG
+- Planning and heuristic search in Autonomous systems
 - Graph Neural Networks
-- Advanced topics in classical AI and planning
-- Language cognition with ML tools
+- Time Series models
 
 ## ✨ Explore my projects:
 
 ### Machine Learning 
+- **Image Search**: Implemented a retrieval pipeline for image search using Approximate-Nearest-Neighbours. Tested the effect of fine-tuning the similarity metric between images with Active Learning methods.
 - **LinkedIn Dream Job Scorer**: Developed a product using random forest algorithms, Gemini API, and fine-tuned Facebook's RoBERTa.
 - **GAN Model**: Created a Generative Adversarial Network for image generation, trained on the MNIST dataset.
 - **Sentiment Analysis Classifier**: Built a classifier trained on a Twitter dataset.
@@ -45,46 +37,13 @@ Interrupted Time Series models with multiple interruption events, analyzing the 
 - **IoT Heart Monitor**: Created an IoT heart monitor application using Arduino sensors.
 
 
-## 📊 I'm experienced in:
-
-<p align="center"> 
-
-  <a href="https://www.python.org" target="_blank"> 
-      <code><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="45" height="45"/></code> 
-  </a> 
-  
-  <a href="https://www.java.com" target="_blank"> 
-      <code><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45"/></code> 
-  </a> 
-
-  <a href="https://www.cprogramming.com" target="_blank"> 
-      <code><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="45" height="45"/></code>
-  </a> 
-
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-      <code><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="45" height="45"/></code>
-  </a> 
-
-  <a href="https://www.mysql.com/" target="_blank"> 
-      <code><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/></code> 
-  </a> 
-
-  <a href="https://www.latex-project.org" target="_blank"> 
-      <code style="background-color: white;"><img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="latex" width="45" height="45"/></code> 
-  </a> 
-
-  <a href="https://pytorch.org/" target="_blank"> 
-      <code><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="45" height="45"/></code> 
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank"> 
-      <code><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="45" height="45"/></code> 
-  </a> 
-
-<br>
-<br>
-  <img alt="Naomi's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NaomiDerel&theme=white&&hide_border=true" width='48%' /> 
-<br>
-
-</p>
-
+## 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
